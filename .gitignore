@@ -2,3 +2,5 @@ node_modules
 /target
 envs
 aws/functions/core/build
+.terraform
+aws/terraform/bootstrap/terraform.tfstate
